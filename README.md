@@ -1,2 +1,2 @@
 # Weather_info
-This repro contains climate data of Sierra Leone
+This repro contains weather data for Sierra Leone
